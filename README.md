@@ -43,10 +43,10 @@ npm start
 5. Open your web browser and ```visit http://localhost:3000``` to see the app in action.
 
 ## Technologies Used
-React
-JavaScript
-CSS
-Font Awesome Icons
+- React
+- JavaScript
+- CSS
+- Font Awesome Icons
 
 ## Acknowledgments
 Quotes API: type.fit
